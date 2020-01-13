@@ -1,4 +1,5 @@
-# frontend
+# udemy-frontend
+udemy frontend for vue js demo
 
 ## Project setup
 ```
