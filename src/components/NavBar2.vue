@@ -60,6 +60,7 @@ export default {
         display: none;
         margin-top: 15px;
         left: 0;
+        z-index: 5;
     }
 
     .drop_down_menu_item{
